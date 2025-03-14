@@ -1,0 +1,18 @@
+# Ignore executable files
+*.exe
+
+# Ignore zip files
+*.zip
+
+# Ignore virtual environment folders
+.venv/
+env/
+venv/
+
+# Ignore unnecessary folders
+samples/
+person identification/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
